@@ -17,7 +17,7 @@ airplane
 
 
 ![Screenshot](dataset/bicycle/1.jpg)
-
+bicycle
 
 
 ![Screenshot](dataset/boat/1.jpg)
