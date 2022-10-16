@@ -11,27 +11,34 @@ Hcaptcha dataset. Data of different classes (8) of the order of ~ 100000.
 Used to train the neural network to solve hcaptcha.
 The automatic solution of this captcha is located in a nearby repository.
 
-airplane
-![Screenshot](dataset/airplane/1.jpg)
 
-bicycle
+![Screenshot](dataset/airplane/1.jpg)
+airplane
+
+
 ![Screenshot](dataset/bicycle/1.jpg)
 
-boat
+
+
 ![Screenshot](dataset/boat/1.jpg)
+boat
 
-motorbus
+
 ![Screenshot](dataset/motorbus/1.jpg)
+motorbus
 
-motorcycle
+
 ![Screenshot](dataset/motorcycle/1.jpg)
+motorcycle
 
-seaplane
+
 ![Screenshot](dataset/seaplane/1.jpg)
+seaplane
 
-train
+
 ![Screenshot](dataset/train/1.jpg)
+train
 
-truck
+
 ![Screenshot](dataset/truck/1.jpg)
-
+truck
